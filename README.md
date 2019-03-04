@@ -58,7 +58,7 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 *http://www.marinelandcanada.com
 * i found it on social media 
 * this site seems current but a little boring
-* the is little dots at the bottom of the home page that allows you to get to difrent slids 
+* there are little dots at the bottom of the home page that allows you to get to difrent slids 
 * in my opinion the site has wired layoout with random thing in random spots on the home page
 * i would chang the colur on the site and make it a little more pleasing to the eye
 
